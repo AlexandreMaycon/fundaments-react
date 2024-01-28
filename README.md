@@ -1,2 +1,2 @@
 # fundaments-react
-Curso feito pela plataforma origamid, sobre os fundamentos do framework react.
+Concluí um curso na plataforma Origamid, abordando os fundamentos do framework React.
